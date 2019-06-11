@@ -37,4 +37,5 @@ Grant Ludwig: ludwigg@seattleu.edu
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
   [App Mockup](https://pr.to/NG1HA6/)
+  
   [Desktop Mockup](LINK HERE)
