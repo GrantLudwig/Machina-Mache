@@ -15,9 +15,9 @@ This project was created as a part of the User Experience Design course at Seatt
 Our group ended up on this idea after reading about an idea similar to ours in a paper called *A Blueprint for a Better Digital Society* by Jaron Lanier and E. Glen Weyl. We all agreed how companies obtained data from users is in a morally gray area and we wanted to find a better way for comapies to obtain data from users, without bascially stealing it from them. Thus we began creating Machina Máche.
 
 ## Group Members
-Jack Arnold: arnoldj1@seattleu.edu
-Mitchel Downey: downeym1@seattleu.edu
-Grant Ludwig: ludwigg@seattleu.edu
+- Jack Arnold: arnoldj1@seattleu.edu
+- Mitchel Downey: downeym1@seattleu.edu
+- Grant Ludwig: ludwigg@seattleu.edu
 
 # Design Process
 ## Interview Findings
