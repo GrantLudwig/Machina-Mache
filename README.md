@@ -38,3 +38,10 @@ Our group ended up on this idea after reading about an idea similar to ours in a
 ### Interactive mock-ups
 - [App Mockup](https://pr.to/NG1HA6/)
 - [Desktop Mockup](LINK HERE)
+
+### App Mock-up
+#### Login and Create Account
+This is the login and create account screens of our application. Here the user can login to thier account or if they are a new user, they can create an account. Once they are signed in our have completed sign in they will go to the Home screen.
+![Login](Hifi/App/Login.png) ![Create Account](Hifi/App/CreateUser.png)
+
+
