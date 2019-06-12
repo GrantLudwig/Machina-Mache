@@ -65,7 +65,7 @@ This is the app camera. Here a user can take photos for a request. Also if the c
 
 #### My Account
 This screen displays a users information. The user can change thier username, email, and password. From this screen the user can also link their bank information or Venmo (do not know if actually possible) for payment.
-![My Account](Hifi/App/MyAccount)
+![My Account](Hifi/App/MyAccount.png)
 
 #### Fulfilled
 This screen displays all of a users past requests that they have fulfilled. If touched on, it will expand displaying the information about the request.
