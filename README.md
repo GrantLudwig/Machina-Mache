@@ -56,7 +56,7 @@ This is the login and create account screens of our application. Here the user c
 #### Home
 This is the home screen, the main feature of our app. From this screen a user can look at all the requests they qualify for. From this screen the user can open the menu to go to the my account screen, fulfilled screen, and logout. They can also go to notifications in the top right. If they would like to learn more about a request, they can touch the box with the request and the request expands into the screen next to the default home screen. Once expanded a user can read the full terms or go to select photos for the request.
 
-![Home](Hifi/App/HomeHomeOpen.png)
+![Home](Hifi/App/HomeFull.png)
 
 #### Request Fulfillment
 The first screen shows what will show up when you come to after choosing to select photos from a request. This displays all the photos in your camera roll (which the app will permissions for) which you can select for the request. This screen has been vastly redone because of feedback. We were told the old version had too much on it and it would be simplier to just fully integrate the camera roll into selection. Off of that feedback, we created this new designed screen. Once a user selects the photos they want to send, they can touch send which will display the below popup. After they confirm sending, the last below popup will display on the home screen.
