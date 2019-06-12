@@ -1,6 +1,7 @@
 # Machina Máche
 ![Logo](MachinaMache.png)
 
+# Process Blog
 ## Problem Statement
 We were originally tasked with tackling the problem of data dignity by creating a product or system that helped users to maintain control of their data. Currently, companies mostly have free reign over peoples data that they easily collect and can predict from our actions on thier platforms. Many people today have surrendered to the fact that companies have data on us and are using it for thier own economic gain, with no benefits to us.
 
