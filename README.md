@@ -9,6 +9,7 @@ We aim to create a product that will allow people to better understand what thie
 
 ## Project Description
 We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts.
+-------NEEDS MORE-------
 
 ## Context
 This project was created as a part of the User Experience Design course at Seattle University, offered Spring Quarter 2019 through the Computer Science department.
