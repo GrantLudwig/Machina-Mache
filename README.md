@@ -86,10 +86,26 @@ This screen is where all notifications for a user are located. This is also anot
 
 ### Desktop Mock-up
 
-### Home Page and Create Account
+#### Landing Page and Create Account
 This is the landing page for the webiste, where the user can login if they have an account, or go to the account creation screen to create an account for themselves.
 
-![Home](Hifi/Desktop/HomeScreen.png)
+![Landing](Hifi/Desktop/Landing.png)
 ![Create](Hifi/Desktop/CreateAccount.png)
 
+#### Home Page
+This screen is the central home page of the website. It contains navigation tabs on the left to get to various screens, and icons to take the user to the account page and back to this home page. All these navigational buttons are consistent across all screens, except where changing to a screen would not make sense. The Home page contains a small selection of the user's active requests, with a dropdown menu to change how they are ordered. In addition, it contains some simple statistics about the performance of certain requests over the last month
+
+![Home](Hifi/Desktop/HomeScreen.png)
+
+#### Active Requests
+This page contains the user created requests that are still active, in that they will be shown to app users. Clicking on the expansion dots on the lower right of each box will expand out to show more detailed data, and allow the user to edit certain parameters of the request or collect submissions from app users.
+
+![Active1](Hifi/Desktop/Active1.png)
+![Active2](Hifi/Desktop/Active2.png)
+
+#### Past Requests
+This page contains the user created requests that have passed their end date. The functionality of this page is identical to the active requests page, excepting that requests cannot be edited.
+
+![Past1](Hifi/Desktop/Past1.png)
+![Past2](Hifi/Desktop/Past2.png)
 #### ----------------TODO----------------
