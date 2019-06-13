@@ -85,4 +85,11 @@ This screen is where all notifications for a user are located. This is also anot
 ![Notifications](Hifi/App/NotificationsFull.png)
 
 ### Desktop Mock-up
+
+### Home Page and Create Account
+This is the landing page for the webiste, where the user can login if they have an account, or go to the account creation screen to create an account for themselves.
+
+![Home](Hifi/Desktop/HomeScreen.png)
+![Create](Hifi/Desktop/CreateAccount.png)
+
 #### ----------------TODO----------------
