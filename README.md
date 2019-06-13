@@ -46,7 +46,7 @@ Our group ended up on this idea after reading about an idea similar to ours in a
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
 - [App Mockup](https://pr.to/NG1HA6/)
-- [Desktop Mockup](----------------TODO----------------)
+- [Desktop Mockup](https://pr.to/2CWV41/)
 
 ### App Mock-up
 #### Login and Create Account
