@@ -63,11 +63,11 @@ Once we had some sketches, we came together as a group to go over our individual
 
 ## User Task Flows
 #### ----------------TODO----------------
-![TaskFlow1](taskflow 1.jpg)
-![TaskFlow2](taskflow 2.jpg)
-![TaskFlow3](task flow 3.jpg)
-![TaskFlow4](task flow 4.jpg)
-![TaskFlow5](task flow 5.jpg)
+![TaskFlow1](taskflow1.jpg)
+![TaskFlow2](taskflow2.jpg)
+![TaskFlow3](taskflow3.jpg)
+![TaskFlow4](taskflow4.jpg)
+![TaskFlow5](taskflow5.jpg)
 
 ## Paper Prototypes
 #### ----------------TODO----------------
