@@ -76,7 +76,7 @@ The next step was to create paper prototypes of our design, utilizing our previo
 ![DPP1](PaperProto/Desktop/ActiveRequests.jpg)
 ![DPP2](PaperProto/Desktop/Api.jpg)
 ![DPP3](PaperProto/Desktop/Collections.jpg)
-![DPP4](PaperProto/Desktop/CreateRequest.jpg)
+![DPP4](PaperProto/Desktop/CreateRequests.jpg)
 ![DPP5](PaperProto/Desktop/FyiActive.jpg)
 ![DPP6](PaperProto/Desktop/Home.jpg)
 ![DPP7](PaperProto/Desktop/Pay.jpg)
