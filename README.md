@@ -98,7 +98,7 @@ This screen is the central home page of the website. It contains navigation tabs
 ![Home](Hifi/Desktop/HomeScreen.png)
 
 #### Active Requests
-This page contains the user created requests that are still active, in that they will be shown to app users. Clicking on the expansion dots on the lower right of each box will expand out to show more detailed data, and allow the user to edit certain parameters of the request or collect submissions from app users.
+This page contains the user created requests that are still active, in that they will be shown to app users. Clicking on the expansion dots on the lower right of each box will expand out to show more detailed data, and allow the user to edit certain parameters of the request or collect submissions from app users. This page, and all the others of similar formats, were significantly redesigned after the wireframing phase. The feedback we received caused us to rethink how the information was presented, and the general design of the request cards
 
 ![Active1](Hifi/Desktop/Active1.png)
 ![Active2](Hifi/Desktop/Active2.png)
@@ -108,4 +108,24 @@ This page contains the user created requests that have passed their end date. Th
 
 ![Past1](Hifi/Desktop/Past1.png)
 ![Past2](Hifi/Desktop/Past2.png)
-#### ----------------TODO----------------
+
+#### Collection Page
+This page is where the user can collect the data that app users have submitted to their requests. The data is given through an API key which will not be presented if the promised compensation has not been provided to the submitters.
+
+![Collect1](Hifi/Desktop/Collect1.png)
+![CollectUnpaid](Hifi/Desktop/CollectUnpaid.png)
+![CollectActive](Hifi/Desktop/CollectStillActive.png)
+![CollectAPI](Hifi/Desktop/CollectAPI.png)
+
+#### Create/Edit Request
+This page is where  the user can create a new request to be presented to app users to fulfill. They can also edit currently active requests, but are not allowed to change the accessibility of the app users data to other projects or third parties, as that could violate the trust that the submitters had in the requester.The design of the text boxes was changed after the wireframing stage in order to make the design more consistent across the website and the mobile app.
+
+![NewRequest](Hifi/Desktop/NewRequest.png)
+![EditRequest](Hifi/Desktop/EditRequest.png)
+
+#### User Account
+This page is where the user can view information about their account, change that information, and view some statistics on the activity of their account.
+
+![Account1](Hifi/Desktop/Account1.png)
+![Account2](Hifi/Desktop/Account2.png)
+![Account3](Hifi/Desktop/Account3.png)
