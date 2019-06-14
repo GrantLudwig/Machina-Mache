@@ -8,8 +8,7 @@ We were originally tasked with tackling the problem of data dignity by creating 
 We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
 ## Project Description
-We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application was designed in the vein of Google products, using quite a few of their resources along the way to get the job done right. Our desktop page was inspired by a platform meant for buying and selling goods via a service providing webhost/third party. Overall we feel we were highly succsesful in creating a product which is both easy to use and beautiful to look at.
----- still more? ----
+We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application and desktop site used material design principles.
 
 ## Context
 This project was created as a part of the User Experience Design course at Seattle University, offered Spring Quarter 2019 through the Computer Science department.
@@ -37,11 +36,11 @@ Interviews consisted of 1 males and 1 female, with ages all in their early twent
 
 In these interviews, we focused on data collection by companies. Through our interviews, we confirmed our findings on data collection from our last round and gained more insight. Clarity in how data was being used we found to be a large plus from our participants. They also thought that if companies compensated people for providing data as well as stated what the data would be used for, they would be more inclined to provide data.
 
-From our second round, we relized our idea for Machina Máche was viable. The main tenents we needed to focus on was clarity on what data was being used for and compensation as an option for companies looking for data. 
+From our second round, we relized our idea for Machina Máche was viable. The main tenents we needed to focus on was clarity on what data was being used for and compensation as an option for companies looking for data.
 
 ## Design Sketches
 ### Individual Sketches
-After the interview phase, we created some quick sketches on our own. This was to help create a diverse range of designs and possibly present new designs to others of the group
+After the interview phase, we created some quick sketches on our own. This was to help create a diverse range of designs and possibly present new designs to others of the group.
 
 ![ISketch1](Sketches/GrantSketch.jpg)
 ![ISketch2](Sketches/GrantSketch2.jpg)
@@ -63,10 +62,15 @@ Once we had some sketches, we came together as a group to go over our individual
 
 ## User Task Flows
 
+#### ----------------NEEDS Description----------------
 ![TaskFlow1](taskflow1.jpg)
+#### ----------------NEEDS Description----------------
 ![TaskFlow2](taskflow2.jpg)
+#### ----------------NEEDS Description----------------
 ![TaskFlow3](taskflow3.jpg)
+#### ----------------NEEDS Description----------------
 ![TaskFlow4](taskflow4.jpg)
+#### ----------------NEEDS Description----------------
 ![TaskFlow5](taskflow5.jpg)
 
 ## Paper Prototypes
