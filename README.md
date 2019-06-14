@@ -40,7 +40,23 @@ In these interviews, we focused on data collection by companies. Through our int
 From our second round, we relized our idea for Machina Máche was viable. The main tenents we needed to focus on was clarity on what data was being used for and compensation as an option for companies looking for data. 
 
 ## Design Sketches
-#### ----------------TODO----------------
+### Individual Sketches
+After the interview phase, we created some quick sketches on our own. This was to help create a diverse range of designs and possibly present new designs to others of the group
+
+![ISketch1](Sketches/GrantSketch.jpg)
+![ISketch2](Sketches/GrantSketch2.jpg)
+![ISketch3](Sketches/JackSketch.jpg)
+![ISketch4](Sketches/JackSketch.jpg)
+![ISketch5](Sketches/MitchSketch.jpg)
+
+### Group Sketches
+Once we had some sketches, we came together as a group to go over our individual work and refine the sketches together. This then helped us to figure out our IA and think about task flows.
+
+![GSketch1](Sketches/DesktopHomeSketch.jpg)
+![GSketch2](Sketches/SigninSketch.jpg)
+![GSketch3](Sketches/HomeAppSketch.jpg)
+![GSketch4](Sketches/CreateRequestSketch.jpg)
+![GSketch5](Sketches/NotificationSketch.jpg)
 
 ## Information Architecture
 #### ----------------TODO----------------
