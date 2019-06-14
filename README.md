@@ -132,7 +132,7 @@ Outside of these small pieces of commentary, which were mostly incorporated into
 ![DWF4](Wireframes/Desktop/CreateNewRequest.png)
 ![DWF5](Wireframes/Desktop/EditRequest.png)
 ![DWF6](Wireframes/Desktop/Home.png)
-![DWF7](Wireframes/Desktop/PreviousRequest.png)
+![DWF7](Wireframes/Desktop/PreviousRequests.png)
 
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
