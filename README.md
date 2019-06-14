@@ -5,7 +5,7 @@
 ## Problem Statement
 We were originally tasked with tackling the problem of data dignity by creating a product or system that helped users to maintain control of their data. Currently, companies mostly have free reign over peoples data that they easily collect and can predict from our actions on thier platforms. Many people today have surrendered to the fact that companies have data on us and are using it for thier own economic gain, with no benefits to us.
 
-We aim to create a product that will allow people to better understand what thier data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
+We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
 ## Project Description
 We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts.
@@ -23,7 +23,21 @@ Our group ended up on this idea after reading about an idea similar to ours in a
 
 # Design Process
 ## Interview Findings
-#### ----------------TODO----------------
+Before our interviews, our idea for the project was vastly different to our final product. Our original idea was creating an easier way to look at reviews on Amazon. For example, a way to break down reviews of a product on demographics such as: this person has a history of buying headphones and reviewing them. 
+
+### Interview Round 1
+Interviews consisted of 2 males and 1 female, with ages all in their early twenties. All are students at Seattle University.
+
+We began our interviews with asking people about what data dignity ment to them, how they feel about companies using and collecting there data, and then towards reviews for products. Through interviewing, we found that our participants mostly reviewed when angry or overwellmingly happy with a product. We also found that reviews do matter when its a product they are not familar with. When looking at reveiws, they would like to look at review history and past products reviewd/bought but it's time consuming.
+
+As our group met with our findings, we relized how difficult it would be to basically redesign Amazon's review system. After looking at our responses we noticed how all of our participants were unhappy with our companies collected and used their data. Through our findings and the ideas from *A Blueprint for a Better Digital Society*, we created our concept for Machina Máche, name pending at the time.
+
+### Interview Round 2
+Interviews consisted of 1 males and 1 female, with ages all in their early twenties. All are students at Seattle University and are different people from our first round.
+
+In these interviews, we focused on data collection by companies. Through our interviews, we confirmed our findings on data collection from our last round and gained more insight. Clarity in how data was being used we found to be a large plus from our participants. They also thought that if companies compensated people for providing data as well as stated what the data would be used for, they would be more inclined to provide data.
+
+From our second round, we relized our idea for Machina Máche was viable. The main tenents we needed to focus on was clarity on what data was being used for and compensation as an option for companies looking for data. 
 
 ## Design Sketches
 #### ----------------TODO----------------
