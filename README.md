@@ -71,13 +71,16 @@ Once we had some sketches, we came together as a group to go over our individual
 
 ## Paper Prototypes
 #### Desktop
+The next step was to create paper prototypes of our design, utilizing our previous sketches and our work ironing out task flows. We made sure to keep these rough and informal, as they are just prototypes
+
 ![DPP1](PaperProto/Desktop/ActiveRequests.jpg)
 ![DPP2](PaperProto/Desktop/Api.jpg)
 ![DPP3](PaperProto/Desktop/Collections.jpg)
 ![DPP4](PaperProto/Desktop/CreateRequest.jpg)
-![DPP5](PaperProto/Desktop/FyiActive.jpg
+![DPP5](PaperProto/Desktop/FyiActive.jpg)
 ![DPP6](PaperProto/Desktop/Home.jpg)
 ![DPP7](PaperProto/Desktop/Pay.jpg)
+
 #### Mobile
 ![MPP1](PaperProto/App/Camera.jpg)
 ![MPP2](PaperProto/App/CreateAccount.jpg)
