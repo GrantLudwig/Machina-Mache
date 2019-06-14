@@ -70,10 +70,37 @@ Once we had some sketches, we came together as a group to go over our individual
 ![TaskFlow5](taskflow5.jpg)
 
 ## Paper Prototypes
-#### ----------------TODO----------------
-
+#### Desktop
+![DPP1](PaperProto/Desktop/ActiveRequests.jpg)
+![DPP2](PaperProto/Desktop/Api.jpg)
+![DPP3](PaperProto/Desktop/Collections.jpg)
+![DPP4](PaperProto/Desktop/CreateRequest.jpg)
+![DPP5](PaperProto/Desktop/FyiActive.jpg
+![DPP6](PaperProto/Desktop/Home.jpg)
+![DPP7](PaperProto/Desktop/Pay.jpg)
+#### Mobile
+![MPP1](PaperProto/App/Camera.jpg)
+![MPP2](PaperProto/App/CreateAccount.jpg)
+![MPP3](PaperProto/App/FuldilledOther.jpg)
+![MPP4](PaperProto/App/FulfillRequest.jpg)
+![MPP5](PaperProto/App/FulfillRequest2.jpg)
+![MPP6](PaperProto/App/FulfillRequest3.jpg)
+![MPP7](PaperProto/App/Fulfilled.jpg)
+![MPP8](PaperProto/App/Home.jpg)
+![MPP9](PaperProto/App/HomeOpen.jpg)
+![MPP10](PaperProto/App/HomeOpen2.jpg)
+![MPP11](PaperProto/App/HomeOpen3.jpg)
+![MPP12](PaperProto/App/Menu.jpg)
+![MPP13](PaperProto/App/MyAccount.jpg)
+![MPP14](PaperProto/App/Notifications.jpg)
+![MPP15](PaperProto/App/PhotoRecieved.jpg)
+![MPP16](PaperProto/App/Signin.jpg)
 ## Findings from User Evaluations
-#### 
+Menu.jpg)
+![MPP1](PaperProto/App/MyAccount.jpg)
+![MPP1](PaperProto/App/Notifications.jpg)
+![MPP1](PaperProto/App/PhotoRecieved.jpg)
+![MPP1](PaperProto/App/Signin.jpg)#### 
 When we took our paper prototype in to be tested out by our classmates we were incredibly confident in our design. Overall we felt that very few things were missing and that we were quite close to a solid, end product. However we were mistaken and some minor notes were provided by our peers. Our peers were surprised that we didn't have a system for confirming various actions, such as submitting photos for a request. The other thing they suggested was alerting the user of a succesful upload after the fact, so they could be sure they would be compensated for their submission. 
 
 Outside of these small pieces of commentary, which were incorporated into our final high fidelity mock-ups, we were told our app looked like something out of the Google family of tools and applications. This was something we were shooting for, going so far as to use the Google repository for icons and the same font used by Google in all their applications. The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
