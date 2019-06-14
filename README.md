@@ -8,8 +8,8 @@ We were originally tasked with tackling the problem of data dignity by creating 
 We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
 ## Project Description
-We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts.
--------NEEDS MORE-------
+We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application was designed in the vein of Google products, using quite a few of their resources along the way to get the job done right. Our desktop page was inspired by a platform meant for buying and selling goods via a service providing webhost/third party. Overall we feel we were highly succsesful in creating a product which is both easy to use and beautiful to look at.
+---- still more? ----
 
 ## Context
 This project was created as a part of the User Experience Design course at Seattle University, offered Spring Quarter 2019 through the Computer Science department.
