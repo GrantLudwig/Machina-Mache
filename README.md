@@ -33,7 +33,7 @@ We began our interviews with asking people about what data dignity ment to them,
 As our group met with our findings, we relized how difficult it would be to basically redesign Amazon's review system. After looking at our responses we noticed how all of our participants were unhappy with our companies collected and used their data. Through our findings and the ideas from *A Blueprint for a Better Digital Society*, we created our concept for Machina Máche, name pending at the time.
 
 ### Interview Round 2
-Interviews consisted of 1 males and 1 female, with ages all in their early twenties. All are students at Seattle University and are different people from our first round.
+Interviews consisted of 1 male and 1 female, with ages all in their early twenties. All are students at Seattle University and are different people from our first round.
 
 In these interviews, we focused on data collection by companies. Through our interviews, we confirmed our findings on data collection from our last round and gained more insight. Clarity in how data was being used we found to be a large plus from our participants. They also thought that if companies compensated people for providing data as well as stated what the data would be used for, they would be more inclined to provide data.
 
