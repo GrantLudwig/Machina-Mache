@@ -101,12 +101,38 @@ The next step was to create paper prototypes of our design, utilizing our previo
 
 ## Findings from User Evaluations
 
-When we took our paper prototype in to be tested out by our classmates we were incredibly confident in our design. Overall we felt that very few things were missing and that we were quite close to a solid, end product. However we were mistaken and some minor notes were provided by our peers. Our peers were surprised that we didn't have a system for confirming various actions, such as submitting photos for a request. The other thing they suggested was alerting the user of a succesful upload after the fact, so they could be sure they would be compensated for their submission. 
+When we took our paper prototype in to be tested out by our classmates we were incredibly confident in our design. Overall we felt that very few things were missing and that we were quite close to a solid, end product. However we were mistaken and some minor notes were provided by our peers. Our peers were surprised that we didn't have a system for confirming various actions, such as submitting photos for a request. The other thing they suggested was alerting the user of a succesful upload after the fact, so they could be sure they would be compensated for their submission.
 
-Outside of these small pieces of commentary, which were incorporated into our final high fidelity mock-ups, we were told our app looked like something out of the Google family of tools and applications. This was something we were shooting for, going so far as to use the Google repository for icons and the same font used by Google in all their applications. The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
+Commentary on our desktop site was largely concerned with how cluttered our information appeared on the paper sheets. We all felt that when viewed on an actual computer screen, the information would be readable and accessible by all, therefore we did not make too many changes based on comments recieved on our webpage.
+
+Outside of these small pieces of commentary, which were mostly incorporated into our final high fidelity mock-ups, we were told our app looked like something out of the Google family of tools and applications. This was something we were shooting for, going so far as to use the Google repository for icons and the same font used by Google in all their applications. The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
 
 ## Annotated Wireframes
-#### ----------------TODO----------------
+### App Wireframes
+
+![AWF](Wireframes/App/CreateAccount.png)
+![AWF1](Wireframes/App/HomeCreateAccount.png)
+![AWF2](Wireframes/App/Login.png)
+![AWF3](Wireframes/App/Menu.png)
+![AWF4](Wireframes/App/MyAccount.png)
+![AWF5](Wireframes/App/OpenRequest.png)
+![AWF6](Wireframes/App/PhotoRecieved.png)
+![AWF7](Wireframes/App/Requests.png)
+![AWF8](Wireframes/App/SelectPhotos.png)
+![AWF9](Wireframes/App/SendPhotos.png)
+![AWF10](Wireframes/App/camera.png)
+![AWF11](Wireframes/App/fulfilled.png)
+![AWF12](Wireframes/App/notifications.png)
+
+### Desktop Wireframes
+
+![DWF1](Wireframes/Desktop/ActiveRequests.png)
+![DWF2](Wireframes/Desktop/CollectRequestData.png)
+![DWF3](Wireframes/Desktop/CreateAccount.png)
+![DWF4](Wireframes/Desktop/CreateNewRequest.png)
+![DWF5](Wireframes/Desktop/EditRequest.png)
+![DWF6](Wireframes/Desktop/Home.png)
+![DWF7](Wireframes/Desktop/PreviousRequest.png)
 
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
