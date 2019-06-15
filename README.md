@@ -3,7 +3,7 @@
 
 # Process Blog
 ## Problem Statement
-We were originally tasked with tackling the problem of data dignity by creating a product or system that helped users to maintain control of their data. Currently, companies mostly have free reign over peoples data that they easily collect and can predict from our actions on thier platforms. Many people today have surrendered to the fact that companies have data on us and are using it for thier own economic gain, with no benefits to us.
+We were originally tasked with tackling the problem of data dignity by creating a product or system that helped users to maintain control of their data. Currently, companies mostly have free reign over peoples data that they easily collect and can predict from our actions on thier platforms. Many people today have surrendered to the fact that companies have data on us and are using it for their own economic gain, with no benefits to us.
 
 We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
