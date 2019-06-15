@@ -26,7 +26,7 @@ Before our interviews, our idea for the project was vastly different to our fina
 
 ### Interview Round 1
 Interviews consisted of 3 males and 1 female, with ages all in their early twenties. All are students at Seattle University.
-An additional interview was conducted with a baby boomer female from California.
+An additional interview was conducted with a fifty year old female from California.
 
 We began our interviews with asking people about what data dignity ment to them, how they feel about companies using and collecting there data, and then towards reviews for products. Through interviewing, we found that our participants mostly reviewed when angry or overwellmingly happy with a product. We also found that reviews do matter when its a product they are not familar with. When looking at reveiws, they would like to look at review history and past products reviewd/bought but it's time consuming. One participant said that he was hesitant to trust companies which took in his data to actually use it as they promised to.
 
@@ -65,20 +65,30 @@ Once we had some sketches, we came together as a group to go over our individual
 
 
 ## Information Architecture
-From our sketches and iterations on them, we were able to determine our mobile app's information architecture.
+From our sketches and iterations on them, we were able to determine our mobile app's information architecture. At this stage we only really had a clear idea of how the flow of our app should be, which is why we created an information architecture only for it. Later through our tasks flows, we gained a better understanding of the desktop site.
+
 ![IA](IA/IA.png)
 
 ## User Task Flows
 
-#### ----------------NEEDS Description----------------
+This task flow applies to first time users of both the desktop client and the mobile application. It aided us in determining what extra pages needed to be developed for our product in the next step of development. It also helped us to know what exactly ought to be included on preexisting pages.
+
 ![TaskFlow1](Taskflows/taskflow1.jpg)
-#### ----------------NEEDS Description----------------
+
+This highly linear task flow is concerned with sending project updates to individual users who provided a business client with photos previously. 
+
 ![TaskFlow2](Taskflows/taskflow2.jpg)
-#### ----------------NEEDS Description----------------
+
+This task flow is concerned with a business client creating a request for data from the mobile app user base. It shows that 4 screens would be needed for this process, but multiple actions might be provided. When providing details about a request the order in which they are provided is not important, what is important is that they are all filled out to a satisfactory level before submission.
+
 ![TaskFlow3](Taskflows/taskflow3.jpg)
-#### ----------------NEEDS Description----------------
+
+This page is concerned with accessing the photos supplied to a business client via our service. The main sources of confusion at this stage are concerned with data set completeness and whether the data has been payed for. The main hurdle for a business client to overcome in accessing their data, aside from waiting for it to flood in from the mobile community, is actually paying for the use of the photos before gaining access.
+
 ![TaskFlow4](Taskflows/taskflow4.jpg)
-#### ----------------NEEDS Description----------------
+
+This is the only task flow which is concerned exclusively with the mobile application and its users. This task flow is quite concise but is missing pop-ups we added later.
+
 ![TaskFlow5](Taskflows/taskflow5.jpg)
 
 ## Paper Prototypes
