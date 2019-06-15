@@ -51,7 +51,7 @@ Using our findings from interviews, each group member created sketches. This was
 ### Group Sketches
 Once we had some sketches, we came together as a group to go over our individual work and refine the sketches together. This then helped us to figure out our IA and think about task flows.
 
-#### App Sketches
+#### Mobile App Sketches
 ![GSketch2](Sketches/SigninSketch.jpg)
 ![GSketch3](Sketches/HomeAppSketch.jpg)
 ![GSketch5](Sketches/NotificationSketch.jpg)
@@ -62,7 +62,8 @@ Once we had some sketches, we came together as a group to go over our individual
 
 
 ## Information Architecture
-#### ----------------TODO----------------
+From our sketches and iterations on them, we were able to determine our mobile app's information architecture.
+![IA](IA/IA.png)
 
 ## User Task Flows
 
@@ -78,34 +79,36 @@ Once we had some sketches, we came together as a group to go over our individual
 ![TaskFlow5](taskflow5.jpg)
 
 ## Paper Prototypes
-#### Desktop
-The next step was to create paper prototypes of our design, utilizing our previous sketches and our work ironing out task flows. We made sure to keep these rough and informal, as they are just prototypes
+The next step was to create paper prototypes of our design, utilizing our previous sketches and our work ironing out task flows. 
+#### Mobile App
+Through creating the paper prototypes we realized that our menu for the app had too much in it that wasn't really needed. We desided to only have Home, My Account, Fulfilled, and Sign Out in the menu.
 
-![DPP1](PaperProto/Desktop/ActiveRequests.jpg)
-![DPP2](PaperProto/Desktop/Api.jpg)
-![DPP3](PaperProto/Desktop/Collections.jpg)
-![DPP4](PaperProto/Desktop/CreateRequests.jpg)
-![DPP5](PaperProto/Desktop/FyiActive.jpg)
-![DPP6](PaperProto/Desktop/Home.jpg)
-![DPP7](PaperProto/Desktop/Pay.jpg)
-
-#### Mobile
-![MPP1](PaperProto/App/Camera.jpg)
+![MPP16](PaperProto/App/Signin.jpg)
 ![MPP2](PaperProto/App/CreateAccount.jpg)
-![MPP3](PaperProto/App/FuldilledOther.jpg)
-![MPP4](PaperProto/App/FulfillRequest.jpg)
-![MPP5](PaperProto/App/FulfillRequest2.jpg)
-![MPP6](PaperProto/App/FulfillRequest3.jpg)
-![MPP7](PaperProto/App/Fulfilled.jpg)
 ![MPP8](PaperProto/App/Home.jpg)
 ![MPP9](PaperProto/App/HomeOpen.jpg)
 ![MPP10](PaperProto/App/HomeOpen2.jpg)
 ![MPP11](PaperProto/App/HomeOpen3.jpg)
+![MPP1](PaperProto/App/Camera.jpg)
+![MPP4](PaperProto/App/FulfillRequest.jpg)
+![MPP5](PaperProto/App/FulfillRequest2.jpg)
+![MPP6](PaperProto/App/FulfillRequest3.jpg)
+![MPP15](PaperProto/App/PhotoRecieved.jpg)
+![MPP7](PaperProto/App/Fulfilled.jpg)
+![MPP3](PaperProto/App/FulfilledOther.jpg)
 ![MPP12](PaperProto/App/Menu.jpg)
 ![MPP13](PaperProto/App/MyAccount.jpg)
 ![MPP14](PaperProto/App/Notifications.jpg)
-![MPP15](PaperProto/App/PhotoRecieved.jpg)
-![MPP16](PaperProto/App/Signin.jpg)
+
+#### Desktop
+
+![DPP6](PaperProto/Desktop/Home.jpg)
+![DPP1](PaperProto/Desktop/ActiveRequests.jpg)
+![DPP3](PaperProto/Desktop/Collections.jpg)
+![DPP7](PaperProto/Desktop/Pay.jpg)
+![DPP5](PaperProto/Desktop/FyiActive.jpg)
+![DPP2](PaperProto/Desktop/Api.jpg)
+![DPP4](PaperProto/Desktop/CreateRequests.jpg)
 
 ## Findings from User Evaluations
 
@@ -116,7 +119,7 @@ Commentary on our desktop site was largely concerned with how cluttered our info
 Outside of these small pieces of commentary, which were mostly incorporated into our final high fidelity mock-ups, we were told our app looked like something out of the Google family of tools and applications. This was something we were shooting for, going so far as to use the Google repository for icons and the same font used by Google in all their applications. The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
 
 ## Annotated Wireframes
-### App Wireframes
+### Mobile App Wireframes
 
 ![AWF](Wireframes/App/CreateAccount.png)
 ![AWF1](Wireframes/App/HomeCreateAccount.png)
@@ -144,10 +147,10 @@ Outside of these small pieces of commentary, which were mostly incorporated into
 
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
-- [App Mockup](https://pr.to/NG1HA6/)
+- [Mobile App Mockup](https://pr.to/NG1HA6/)
 - [Desktop Mockup](https://pr.to/2CWV41/)
 
-### App Mock-up
+### Mobile App Mock-up
 #### Login and Create Account
 This is the login and create account screens of our application. Here the user can login to thier account or if they are a new user, they can create an account. Once they are signed in our have completed sign in they will go to the Home screen.
 
