@@ -43,7 +43,7 @@ From our second round, we relized our idea for Machina Máche was viable. The ma
 
 ## Design Sketches
 ### Individual Sketches
-Using our findings from interviews, each group member created sketches. This was to help create a diverse range of designs and possibly present new designs to others of the group.
+Using our findings from interviews, each group member created sketches. This was to help create a diverse range of designs and possibly present new ideas to others of the group.
 
 ![ISketch1](Sketches/GrantSketch.jpg)
 ![ISketch2](Sketches/GrantSketch2.jpg)
@@ -52,7 +52,7 @@ Using our findings from interviews, each group member created sketches. This was
 ![ISketch5](Sketches/MitchSketch.jpg)
 
 ### Group Sketches
-Once we had some sketches, we came together as a group to go over our individual work and refine the sketches together. This then helped us to figure out our IA and think about task flows.
+Once we had some sketches, we came together as a group to go over our individual work and refine the sketches together. This then helped us to figure out our information architecture and think about task flows.
 
 #### Mobile App Sketches
 ![GSketch2](Sketches/SigninSketch.jpg)
@@ -79,22 +79,22 @@ This highly linear task flow is concerned with sending project updates to indivi
 
 ![TaskFlow2](Taskflows/taskflow2.jpg)
 
-This task flow is concerned with a business client creating a request for data from the mobile app user base. It shows that 4 screens would be needed for this process, but multiple actions might be provided. When providing details about a request the order in which they are provided is not important, what is important is that they are all filled out to a satisfactory level before submission.
+This task flow is concerned with a business client creating a request for data from the mobile app user base. When providing details about a request the order in which they are provided is not important, what is important is that they are all filled out to a satisfactory level before submission.
 
 ![TaskFlow3](Taskflows/taskflow3.jpg)
 
-This page is concerned with accessing the photos supplied to a business client via our service. The main sources of confusion at this stage are concerned with data set completeness and whether the data has been payed for. The main hurdle for a business client to overcome in accessing their data, aside from waiting for it to flood in from the mobile community, is actually paying for the use of the photos before gaining access.
+This page is concerned with accessing the photos supplied to a business client via our service. The main sources of confusion at this stage are concerned with data set completeness and whether the data has been payed for. The main hurdle for a business client to overcome in accessing their data, is actually paying for the use of the photos before gaining access.
 
 ![TaskFlow4](Taskflows/taskflow4.jpg)
 
-This is the only task flow which is concerned exclusively with the mobile application and its users. This task flow is quite concise but is missing pop-ups we added later.
+This is the only task flow which is concerned exclusively with the mobile application and its users. It shows the normal flow of a user fulfilling a request.
 
 ![TaskFlow5](Taskflows/taskflow5.jpg)
 
 ## Paper Prototypes
 The next step was to create paper prototypes of our design, utilizing our previous sketches and our work ironing out task flows. 
 #### Mobile App
-Through creating the paper prototypes we realized that our menu for the app had too much in it that wasn't really needed. We desided to only have Home, My Account, Fulfilled, and Sign Out in the menu.
+Through creating the paper prototypes we realized that our menu for the app had too much in it that wasn't really needed. We then redesided the menu to only have Home, My Account, Fulfilled, and Sign Out in it.
 
 ![MPP16](PaperProto/App/Signin.jpg)
 ![MPP2](PaperProto/App/CreateAccount.jpg)
@@ -125,7 +125,7 @@ Through creating the paper prototypes we realized that our menu for the app had 
 
 ## Findings from User Evaluations
 
-When testing our app prototype on a user we had them attempt to fulfill a request as a brand new user. One major point from users was the lack of confirmation. The two points where this was requested was when they were ready to send photos and once they had sent photos, a confirmation that their upload was successful photos had been sent. Users were also confused why they had to take pictures first instead of being able to select elgible photos from thier camera roll.
+When testing our app prototype on a user we had them attempt to fulfill a request as a brand new user. One major point from users was the lack of confirmation. The two points where this was requested was when they were ready to send photos and once they had sent photos, a confirmation that their upload was successful and photos had been sent. Users were also confused why they had to take pictures first instead of being able to select elgible photos from their camera roll.
 
 Commentary on our desktop site was largely concerned with how cluttered our information appeared on the small paper sheets. We all felt that when viewed on an actual computer screen, the information would be readable and accessible by all, therefore we did not make too many changes based on comments recieved on our webpage.
 
@@ -135,7 +135,7 @@ The vast majority of the commentary was positive and helped us to know we were p
 
 
 ### Mobile App Wireframes
-Comments on the app wireframes were overwellmingly positive, however there were a few small comments. Someone pointed out that each screen should have what it is at the top so the user knows where they are in the application. Someone else also said that the select photos screen was too cluttered. Both suggestions were incorporated into the final mock-up.
+Comments on the app wireframes were overwellmingly positive, however there were a few small critiques. Someone pointed out that each screen should have what it is at the top so the user knows where they are in the application. Someone else also said that the select photos screen was too cluttered. Both suggestions were incorporated into the final mock-up.
 
 ![AWF1](Wireframes/App/Login.png)
 ![AWF2](Wireframes/App/CreateAccount.png)
