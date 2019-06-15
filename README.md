@@ -25,9 +25,12 @@ Our group ended up on this idea after reading about an idea similar to ours in a
 Before our interviews, our idea for the project was vastly different to our final product. Our original idea was creating an easier way to look at reviews on Amazon. For example, a way to break down reviews of a product on demographics such as: this person has a history of buying headphones and reviewing them. 
 
 ### Interview Round 1
-Interviews consisted of 2 males and 1 female, with ages all in their early twenties. All are students at Seattle University.
+Interviews consisted of 3 males and 1 female, with ages all in their early twenties. All are students at Seattle University.
+An additional interview was conducted with a baby boomer female from California.
 
-We began our interviews with asking people about what data dignity ment to them, how they feel about companies using and collecting there data, and then towards reviews for products. Through interviewing, we found that our participants mostly reviewed when angry or overwellmingly happy with a product. We also found that reviews do matter when its a product they are not familar with. When looking at reveiws, they would like to look at review history and past products reviewd/bought but it's time consuming.
+We began our interviews with asking people about what data dignity ment to them, how they feel about companies using and collecting there data, and then towards reviews for products. Through interviewing, we found that our participants mostly reviewed when angry or overwellmingly happy with a product. We also found that reviews do matter when its a product they are not familar with. When looking at reveiws, they would like to look at review history and past products reviewd/bought but it's time consuming. One participant said that he was hesitant to trust companies which took in his data to actually use it as they promised to.
+
+The interview with the older woman demonstrated the gap in understanding of the internet and technology in general between generations. She was mostly okay with companies collecting her data as they wished because she had "nothing to hide". She did seem receptive to the prospect of being paid for a review. She expressed some disdain for targetted ads.
 
 As our group met with our findings, we relized how difficult it would be to basically redesign Amazon's review system. After looking at our responses we noticed how all of our participants were unhappy with our companies collected and used their data. Through our findings and the ideas from *A Blueprint for a Better Digital Society*, we created our concept for Machina Máche, name pending at the time.
 
