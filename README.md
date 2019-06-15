@@ -8,7 +8,7 @@ We were originally tasked with tackling the problem of data dignity by creating 
 We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
 ## Project Description
-We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application and desktop site used material design principles.
+We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application and desktop site use material design principles for their design.
 
 ## Context
 This project was created as a part of the User Experience Design course at Seattle University, offered Spring Quarter 2019 through the Computer Science department.
@@ -40,22 +40,26 @@ From our second round, we relized our idea for Machina Máche was viable. The ma
 
 ## Design Sketches
 ### Individual Sketches
-After the interview phase, we created some quick sketches on our own. This was to help create a diverse range of designs and possibly present new designs to others of the group.
+Using our findings from interviews, each group member created sketches. This was to help create a diverse range of designs and possibly present new designs to others of the group.
 
 ![ISketch1](Sketches/GrantSketch.jpg)
 ![ISketch2](Sketches/GrantSketch2.jpg)
 ![ISketch3](Sketches/JackSketch.jpg)
-![ISketch4](Sketches/JackSketch.jpg)
+![ISketch4](Sketches/JackSketch2.jpg)
 ![ISketch5](Sketches/MitchSketch.jpg)
 
 ### Group Sketches
 Once we had some sketches, we came together as a group to go over our individual work and refine the sketches together. This then helped us to figure out our IA and think about task flows.
 
-![GSketch1](Sketches/DesktopHomeSketch.jpg)
+#### App Sketches
 ![GSketch2](Sketches/SigninSketch.jpg)
 ![GSketch3](Sketches/HomeAppSketch.jpg)
-![GSketch4](Sketches/CreateRequestSketch.jpg)
 ![GSketch5](Sketches/NotificationSketch.jpg)
+
+#### Desktop Sketches
+![GSketch1](Sketches/DesktopHomeSketch.jpg)
+![GSketch4](Sketches/CreateRequestSketch.jpg)
+
 
 ## Information Architecture
 #### ----------------TODO----------------
