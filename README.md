@@ -8,7 +8,7 @@ We were originally tasked with tackling the problem of data dignity by creating 
 We aim to create a product that will allow people to better understand what their data is being used for and where it ends up. Our main goal is to de-stigmatize Big Data and provide ethical avenues for companies/researchers to collect data. Through brainstorming ideas and multiple interviews with potential users, we created Machina Máche.
 
 ## Project Description
-We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. Everything we designed was created to be easily used and quickly adjusted to. Our mobile application and desktop site use material design principles for their design.
+We have designed two platforms for both of our different user bases. A desktop webstite for companies looking for a ethical way to obtain data where they can create requests for data. We also created a mobile app for ordinary people to fulfill requests and potentially get compensated for their efforts. The current design of the application is limited to photos, however this could be expanded to text entry and/or video. Our mobile application and desktop site use material design principles for their design in order to be easily understandable.
 
 ## Context
 This project was created as a part of the User Experience Design course at Seattle University, offered Spring Quarter 2019 through the Computer Science department.
@@ -71,15 +71,15 @@ From our sketches and iterations on them, we were able to determine our mobile a
 ## User Task Flows
 
 #### ----------------NEEDS Description----------------
-![TaskFlow1](taskflow1.jpg)
+![TaskFlow1](Taskflows/taskflow1.jpg)
 #### ----------------NEEDS Description----------------
-![TaskFlow2](taskflow2.jpg)
+![TaskFlow2](Taskflows/taskflow2.jpg)
 #### ----------------NEEDS Description----------------
-![TaskFlow3](taskflow3.jpg)
+![TaskFlow3](Taskflows/taskflow3.jpg)
 #### ----------------NEEDS Description----------------
-![TaskFlow4](taskflow4.jpg)
+![TaskFlow4](Taskflows/taskflow4.jpg)
 #### ----------------NEEDS Description----------------
-![TaskFlow5](taskflow5.jpg)
+![TaskFlow5](Taskflows/taskflow5.jpg)
 
 ## Paper Prototypes
 The next step was to create paper prototypes of our design, utilizing our previous sketches and our work ironing out task flows. 
@@ -115,38 +115,40 @@ Through creating the paper prototypes we realized that our menu for the app had 
 
 ## Findings from User Evaluations
 
-When we took our paper prototype in to be tested out by our classmates we were incredibly confident in our design. Overall we felt that very few things were missing and that we were quite close to a solid, end product. However we were mistaken and some minor notes were provided by our peers. Our peers were surprised that we didn't have a system for confirming various actions, such as submitting photos for a request. The other thing they suggested was alerting the user of a succesful upload after the fact, so they could be sure they would be compensated for their submission.
+When teating our app prototype on a user we had them attempt to fulfill a request as a brand new user. One major point from users was the lack of confirmation. The two points where this was requested was when they were ready to send photos and once they had sent photos, a confirmation that their upload was successful photos had been sent. Users were also confused why they had to take pictures first instead of being able to select elgible photos from thier camera roll.
 
-Commentary on our desktop site was largely concerned with how cluttered our information appeared on the paper sheets. We all felt that when viewed on an actual computer screen, the information would be readable and accessible by all, therefore we did not make too many changes based on comments recieved on our webpage.
+Commentary on our desktop site was largely concerned with how cluttered our information appeared on the small paper sheets. We all felt that when viewed on an actual computer screen, the information would be readable and accessible by all, therefore we did not make too many changes based on comments recieved on our webpage.
 
-Outside of these small pieces of commentary, which were mostly incorporated into our final high fidelity mock-ups, we were told our app looked like something out of the Google family of tools and applications. This was something we were shooting for, going so far as to use the Google repository for icons and the same font used by Google in all their applications. The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
+The vast majority of the commentary was positive and helped us to know we were progressing in the proper direction.
 
 ## Annotated Wireframes
-### Mobile App Wireframes
 
-![AWF](Wireframes/App/CreateAccount.png)
-![AWF1](Wireframes/App/HomeCreateAccount.png)
-![AWF2](Wireframes/App/Login.png)
+
+### Mobile App Wireframes
+Comments on the app wireframes were overwellmingly positive, however there were a few small comments. Someone pointed out that each screen should have what it is at the top so the user knows where they are in the application. Someone else also said that the select photos screen was too cluttered. Both suggestions were incorporated into the final mock-up.
+
+![AWF1](Wireframes/App/Login.png)
+![AWF2](Wireframes/App/CreateAccount.png)
+![AWF7](Wireframes/App/Requests.png)
+![AWF5](Wireframes/App/OpenRequest.png)
+![AWF8](Wireframes/App/SelectPhotos.png)
+![AWF10](Wireframes/App/camera.png)
+![AWF9](Wireframes/App/SendPhotos.png)
+![AWF6](Wireframes/App/PhotoRecieved.png)
 ![AWF3](Wireframes/App/Menu.png)
 ![AWF4](Wireframes/App/MyAccount.png)
-![AWF5](Wireframes/App/OpenRequest.png)
-![AWF6](Wireframes/App/PhotoRecieved.png)
-![AWF7](Wireframes/App/Requests.png)
-![AWF8](Wireframes/App/SelectPhotos.png)
-![AWF9](Wireframes/App/SendPhotos.png)
-![AWF10](Wireframes/App/camera.png)
 ![AWF11](Wireframes/App/fulfilled.png)
 ![AWF12](Wireframes/App/notifications.png)
 
 ### Desktop Wireframes
 
+![DWF6](Wireframes/Desktop/Home.png)
 ![DWF1](Wireframes/Desktop/ActiveRequests.png)
 ![DWF2](Wireframes/Desktop/CollectRequestData.png)
-![DWF3](Wireframes/Desktop/CreateAccount.png)
+![DWF7](Wireframes/Desktop/PreviousRequests.png)
 ![DWF4](Wireframes/Desktop/CreateNewRequest.png)
 ![DWF5](Wireframes/Desktop/EditRequest.png)
-![DWF6](Wireframes/Desktop/Home.png)
-![DWF7](Wireframes/Desktop/PreviousRequests.png)
+![DWF3](Wireframes/Desktop/CreateAccount.png)
 
 ## High-fidelity Mock-ups
 ### Interactive mock-ups
