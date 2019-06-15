@@ -167,22 +167,22 @@ Comments on the app wireframes were overwellmingly positive, however there were 
 
 ### Mobile App Mock-up
 #### Login and Create Account
-This is the login and create account screens of our application. Here the user can login to thier account or if they are a new user, they can create an account. Once they are signed in our have completed sign in they will go to the Home screen.
+This is the login and create account screens of our application. Here the user can login to their account or if they are a new user, they can create an account. Once they are signed in or have completed sign up they will go to the Home screen.
 
 ![Login and Create User](Hifi/App/LoginCreate.png)
 
 #### Home
-This is the home screen, the main feature of our app. From this screen a user can look at all the requests they qualify for. From this screen the user can open the menu to go to the my account screen, fulfilled screen, and logout. They can also go to notifications in the top right. If they would like to learn more about a request, they can touch the box with the request and the request expands into the screen next to the default home screen. Once expanded a user can read the full terms or go to select photos for the request.
+This is the home screen, the main feature of our app. This screen displays all the requests a user qualifies for. From this screen the user can open the menu to go to the my account screen, fulfilled screen, and logout. They can also go to notifications in the top right. If they would like to learn more about a request, they can touch the box with the request and the request expands. Once expanded a user can read the full terms or go to select photos for the request.
 
 ![Home](Hifi/App/HomeFull.png)
 
 #### Request Fulfillment
-The first screen shows what will show up when you come to after choosing to select photos from a request. This displays all the photos in your camera roll (which the app will permissions for) which you can select for the request. This screen has been vastly redone because of feedback. We were told the old version had too much on it and it would be simplier to just fully integrate the camera roll into selection. Off of that feedback, we created this new designed screen. Once a user selects the photos they want to send, they can touch send which will display the below popup. After they confirm sending, the last below popup will display on the home screen.
+The first screen shows what will show up after choosing to select photos from a request. This displays all the photos in your camera roll (which the app will ask for permissions for) which you can select for the request. This screen has been vastly redone because of feedback. We were told the old version had too much on it and it would be simplier to just fully integrate the camera roll into selection. Off of that feedback, we created this new designed screen. Once a user selects the photos they want to send, they can touch send which will display the below popup. After they confirm sending, the last below popup will display on the home screen.
 
 ![Request Fulfillment](Hifi/App/Fulfillment.png)
 
 #### App Camera
-This is the app camera. Here a user can take photos for a request. Also if the company requires, for example, an eye picture in a specific part of the photo, the app will display a box for the user to focus their eye into. The second screen displays the pictures that you have taken with the camera. Once a user leaves the page, the new pictures will display on the camera roll.
+This is the app camera. Here a user can take photos for a request. Also if the company requires, for example, an eye picture in a specific part of the photo, the app will display a box for the user to focus their eye into. The second screen displays the pictures that you have taken with the camera. Once a user leaves the page, the new pictures will display on the camera roll on the request fulfillment screen.
 
 ![Camera](Hifi/App/CameraFull.png)
 
