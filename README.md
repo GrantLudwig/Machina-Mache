@@ -47,8 +47,8 @@ Using our findings from interviews, each group member created sketches. This was
 
 ![ISketch1](Sketches/GrantSketch.jpg)
 ![ISketch2](Sketches/GrantSketch2.jpg)
-![ISketch3](Sketches/JackSketchRotate.jpg)
-![ISketch4](Sketches/JackSketch2Rotate.jpg)
+![ISketch3](Sketches/JackSketch.jpg)
+![ISketch4](Sketches/JackSketch2.jpg)
 ![ISketch5](Sketches/MitchSketch.jpg)
 
 ### Group Sketches
